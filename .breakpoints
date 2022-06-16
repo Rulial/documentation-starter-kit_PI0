@@ -1,0 +1,28 @@
+{
+  "files": {
+    "next.config.js": [
+      {
+        "id": "23745c98-6c25-46aa-abaf-3498424aa31d",
+        "line": 7,
+        "version": 1,
+        "index": 168
+      }
+    ],
+    "pages/_app.js": [
+      {
+        "id": "d8952878-33c3-4584-aab4-b5d01dc168b0",
+        "line": 6,
+        "version": 1,
+        "index": 137
+      }
+    ],
+    "pages/get-started.mdx": [
+      {
+        "id": "490fdb81-a1ab-405d-8618-fc4c5e3a76ec",
+        "line": 38,
+        "version": 386,
+        "index": 2614
+      }
+    ]
+  }
+}
