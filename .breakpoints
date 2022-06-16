@@ -23,6 +23,14 @@
         "version": 386,
         "index": 2614
       }
+    ],
+    "theme.config.js": [
+      {
+        "id": "cde9dcf6-1e0b-4f53-8eb5-d3107ec48f22",
+        "line": 59,
+        "version": 348,
+        "index": 2058
+      }
     ]
   }
 }

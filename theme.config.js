@@ -1,6 +1,6 @@
 export default {
-  PATHINTEGRAL: 'https://app.path-integral.com',
-  docsRepositoryBase: '###',
+  projectLink:'https://app.path-integral.com',
+  docsRepositoryBase: 'https://github.com/shuding/nextra/blob/master',
   titleSuffix:'PATH – INTEGRAL',
   logo: (
     <>
