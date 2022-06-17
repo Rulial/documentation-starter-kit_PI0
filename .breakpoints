@@ -35,15 +35,15 @@
     "theme.config.js": [
       {
         "id": "a73973e4-1519-4b26-b39c-e0d287b05012",
-        "line": 9,
-        "version": 373,
-        "index": 335
+        "line": 2,
+        "version": 564,
+        "index": 19
       },
       {
         "id": "cde9dcf6-1e0b-4f53-8eb5-d3107ec48f22",
         "line": 2,
-        "version": 363,
-        "index": 17
+        "version": 564,
+        "index": 19
       }
     ]
   }
