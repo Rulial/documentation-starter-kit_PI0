@@ -1,5 +1,13 @@
 {
   "files": {
+    "Theme.config.jss": [
+      {
+        "id": "e269febd-d191-466c-9fd7-ce972feae2b8",
+        "line": 1,
+        "version": 0,
+        "index": 0
+      }
+    ],
     "next.config.js": [
       {
         "id": "23745c98-6c25-46aa-abaf-3498424aa31d",
@@ -26,10 +34,16 @@
     ],
     "theme.config.js": [
       {
+        "id": "a73973e4-1519-4b26-b39c-e0d287b05012",
+        "line": 9,
+        "version": 373,
+        "index": 335
+      },
+      {
         "id": "cde9dcf6-1e0b-4f53-8eb5-d3107ec48f22",
-        "line": 59,
-        "version": 348,
-        "index": 2058
+        "line": 2,
+        "version": 363,
+        "index": 17
       }
     ]
   }

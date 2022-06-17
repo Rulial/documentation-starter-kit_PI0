@@ -1,7 +1,7 @@
 export default {
-  projectLink:'https://app.path-integral.com',
-  docsRepositoryBase: 'https://github.com/shuding/nextra/blob/master',
-  titleSuffix:'PATH – INTEGRAL',
+  github: 'https://app.path-integral.com',
+  docsRepositoryBase: 'https://github.com/Rulial/documentation-starter-kit_PI0',
+  titleSuffix: 'PI0',
   logo: (
     <>
       <span className="mr-2 font-extrabold hidden md:inline">PATH INTEGRAL</span>
@@ -16,14 +16,14 @@ export default {
       <meta name="theme-color" content="#ffffff" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <meta httpEquiv="Content-Language" content="en" />
-      <meta name="description" content="PathIntegral: imagination > 0" />
-      <meta name="og:description" content="PathIntegral: imagination > 0" />
+      <meta name="description" content="imagination > 0" />
+      <meta name="og:description" content="imagination > 0" />
       <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:image" content="https://replit.com/@RulialSpace/documentation-starter-kitPI0#public/EHL07.png" />
-      <meta name="twitter:site:domain" content="app.path-integral.com" />
-      <meta name="twitter:url" content="https://twitter.com/pathintegral0" />
-      <meta name="og:title" content="PathIntegral: imagination > 0" />
-      <meta name="og:image" content="https://replit.com/@RulialSpace/documentation-starter-kitPI0#public/EHL07.png" />
+      <meta name="twitter:image" content="https://replit.com/@RulialSpace/documentation-starter-kitPI0#public/PI0MASTER.png" />
+      <meta name="twitter:site:domain" content="nextra.vercel.app" />
+      <meta name="twitter:url" content="https://replit.com/@RulialSpace/documentation-starter-kitPI0#public/PI0MASTER.png" />
+      <meta name="og:title" content="Nextra: Next.js static site generator" />
+      <meta name="og:image" content="https://replit.com/@RulialSpace/documentation-starter-kitPI0#public/PI0MASTER.png" />
       <meta name="apple-mobile-web-app-title" content="Nextra" />
       <link
         rel="apple-touch-icon"
@@ -60,8 +60,9 @@ export default {
   search: true,
   prevLinks: true,
   nextLinks: true,
+  darkMode: true,
   footer: true,
   footerEditLink: 'PATH INTEGRAL',
-  footerText: <>MIT {new Date().getFullYear()} © PATHINTEGRAL.</>,
+  footerText: <>MIT {new Date().getFullYear()} © PI0.</>,
   unstable_faviconGlyph: '👋',
 }
