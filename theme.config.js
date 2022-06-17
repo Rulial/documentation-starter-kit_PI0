@@ -62,7 +62,7 @@ export default {
   nextLinks: true,
   darkMode: true,
   footer: true,
-  footerEditLink: 'PATH INTEGRAL',
-  footerText: <>MIT {new Date().getFullYear()} © PI0.</>,
+  footerEditLink: '',
+  footerText: <>MIT {new Date().getFullYear()} © PATH INTEGRAL.</>,
   unstable_faviconGlyph: '👋',
 }
