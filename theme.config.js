@@ -19,11 +19,11 @@ export default {
       <meta name="description" content="imagination > 0" />
       <meta name="og:description" content="imagination > 0" />
       <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:image" content="https://replit.com/@RulialSpace/documentation-starter-kitPI0#public/PI0MASTER.png" />
+      <meta name="twitter:image" content="Rulial/documentation-starter-kit_PI0/public/PI0MASTER.png" />
       <meta name="twitter:site:domain" content="nextra.vercel.app" />
-      <meta name="twitter:url" content="https://replit.com/@RulialSpace/documentation-starter-kitPI0#public/PI0MASTER.png" />
+      <meta name="twitter:url" content="Rulial/documentation-starter-kit_PI0/public/PI0MASTER.png" />
       <meta name="og:title" content="Nextra: Next.js static site generator" />
-      <meta name="og:image" content="https://replit.com/@RulialSpace/documentation-starter-kitPI0#public/PI0MASTER.png" />
+      <meta name="og:image" content="Rulial/documentation-starter-kit_PI0/public/PI0MASTER.png" />
       <meta name="apple-mobile-web-app-title" content="Nextra" />
       <link
         rel="apple-touch-icon"
