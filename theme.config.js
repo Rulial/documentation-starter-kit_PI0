@@ -1,5 +1,5 @@
 export default {
-  github: 'https://updatepath-integral.com',
+  github: 'https://path-integral.com',
   docsRepositoryBase: 'https://github.com/Rulial/documentation-starter-kit_PI0',
   titleSuffix: 'PI0',
   logo: (
